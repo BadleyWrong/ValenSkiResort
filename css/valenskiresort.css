@@ -1,0 +1,11 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+.container-fluid {
+    height: 330%;
+    width: auto;
+    background-image: url(../images/skiresortweb3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
